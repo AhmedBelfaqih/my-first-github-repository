@@ -2,4 +2,4 @@
 Here is my first GitHub repository. Let's get started with GitHub
 
 
-README.md file was just changed manually. This file was modefied locally.
+This line was modefied manually during conflicts resolution
