@@ -3,3 +3,5 @@ this line was replaced in feature-2 branch
 This file was modefied locally
 
 This line was added in feature-2 branch
+
+Another modefication in feature-2 branch
